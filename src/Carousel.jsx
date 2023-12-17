@@ -3,7 +3,7 @@ import image2 from "./assets/2.jpg";
 import image3 from "./assets/3.jpg";
 function Carousel() {
   return (
-    <div className="w-[44   0px] carousel rounded-box">
+    <div className="w-[440px] carousel rounded-box">
       <div className="carousel-item w-full">
         <img
           src={image1}
